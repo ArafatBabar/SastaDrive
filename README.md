@@ -109,6 +109,16 @@ These lessons directly influenced the development of Axelleron Rev 2.
 
 ---
 
+## Design Review Notes
+
+This design is not perfect.
+
+Several shortcomings were identified after completion of Rev 1, including protection architecture, layout optimization opportunities, and thermal improvements.
+
+These findings became the basis for Axelleron Rev 2.
+
+The repository is intentionally preserved in its original state as a record of the design process and lessons learned.
+
 ## License
 
 Hardware and documentation are released under the CERN-OHL-S license unless otherwise specified.
